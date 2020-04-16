@@ -1,0 +1,10 @@
+.n-navbar {
+    display: flex;
+  flex-wrap: nowrap;
+}
+
+.n-navbar > div {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+  }

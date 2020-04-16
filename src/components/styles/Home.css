@@ -1,0 +1,23 @@
+.home-header{
+    display: flex;
+    background-color: #f9e6cc;
+    height: 60px;
+    align-items: center;
+}
+
+.home-header span{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.home-thoughts-container {
+    min-height: calc(100vh - 170px);
+}
+
+.home-add-thought {
+    width: 100%;
+    height: 50px;
+    background-color: #d85b51 !important;
+}
