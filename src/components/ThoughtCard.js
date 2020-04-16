@@ -19,7 +19,6 @@ export class GameCard extends React.Component {
         <Card>
           <Card.Body className="thought-card">
             <div className="thought-card-title">{this.title} </div><div><FaAngleRight/></div>
-          
           </Card.Body>
         </Card>
       </Link>

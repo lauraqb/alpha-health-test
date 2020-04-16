@@ -10,10 +10,6 @@ class Thought extends React.Component {
 
     constructor(props) {
         super(props)
-        this.state = {
-            loading: false,
-            error: null,
-        }
         this.thought = data[this.props.match.params.id]
         this.title = this.thought.title
         this.description = this.thought.description
