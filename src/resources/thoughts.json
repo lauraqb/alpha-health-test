@@ -1,17 +1,17 @@
 [
     {
         "title": "I need to think more what the other person is feeling", 
-        "description":"description",
+        "description":"description 1",
         "mood": "mood"
     },
     {
         "title": "Titulo 2 ", 
-        "description":"description",
+        "description":"description 2",
         "mood": "mood"
     },
     {
-        "title": "Titulo", 
-        "description":"description",
+        "title": "Titulo 3", 
+        "description":"description 3",
         "mood": "mood"
     }
 

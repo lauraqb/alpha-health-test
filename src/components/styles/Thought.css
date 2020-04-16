@@ -21,6 +21,7 @@
 .thought-description {
     background-color: white;
     min-height: calc(100vh - 90px);
+    padding: 10px
 }
 
 .thought-header .thought-go-back{
